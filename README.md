@@ -1,4 +1,3 @@
 # dynamic-wallpaper
 
-Inline-style: 
-![alt text](https://kylewhirl.com/dynamic-wallpaper/Covers/BigSur.png "Logo Title Text 1")
+![alt text](https://kylewhirl.com/dynamic-wallpaper/instructions.GIF "Logo Title Text 1")

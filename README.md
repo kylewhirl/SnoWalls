@@ -1,5 +1,6 @@
 # Dynamic Wallpaper
 <img src="/main.GIF?raw=true">
+
 #### Quick Links
 * [Installation](#Installation)
 * [Guide](#Guide)

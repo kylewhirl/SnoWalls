@@ -1,5 +1,11 @@
 # Dynamic Wallpaper
 
+#### Quick Links
+* [Installation](#Installation)
+* [Guide](#Guide)
+* [Tutorial](#Tutorial)
+* [Extensions](#Extensions)
+
 ## This is an all-in-one Dynamic Wallpaper Shortcut designed for iOS and iPadOS devices
 
 ### This shortcut will allow you to:

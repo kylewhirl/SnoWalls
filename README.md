@@ -19,7 +19,7 @@
 ## Installation
 1. Install the [Setup Shortcut](https://www.icloud.com/shortcuts/647a65ebe32c450aaf6b732f43e21d78)
 2. Run it!
-- This will download the main Dynamic Wallpapers Shortcut while also create necessary files in iCloud Drive
+- This will download the main Dynamic Wallpapers Shortcut and create necessary files in iCloud Drive
 3. Run it again!
 - This will run the main Dynamic Wallpapers Shortcut and begin the creation process
 

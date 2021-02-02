@@ -37,10 +37,10 @@ Shortcut in the Shortcuts App at the following times.
 
 ## Automation Times:
 
-1: Run at 45 minutes before Sunrise 🌄
-2: Run at 15 minutes after Sunrise 🌄
-3: Run at 1 hour after Sunrise 🌄 
-4: Run at 12:00 PM ⏰
-5: Run at 45 minutes before Sunset 🌅
-6: Run at 15 minutes after Sunset 🌅
-7: Run at 2 hours after Sunset 🌅  <img src="/instructions.GIF?raw=true">
+1. Run at 45 minutes before Sunrise 🌄
+2. Run at 15 minutes after Sunrise 🌄
+3. Run at 1 hour after Sunrise 🌄 
+4. Run at 12:00 PM ⏰
+5. Run at 45 minutes before Sunset 🌅
+6. Run at 15 minutes after Sunset 🌅
+7. Run at 2 hours after Sunset 🌅  <img src="/instructions.GIF?raw=true">

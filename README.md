@@ -21,7 +21,7 @@
 2. Run it!
 - This will download the main Dynamic Wallpapers Shortcut while also create necessary files in iCloud Drive
 3. Run it again!
--This will run the main Dynamic Wallpapers Shortcut and begin the creation process
+- This will run the main Dynamic Wallpapers Shortcut and begin the creation process
 
 #### When creating Automations, set them to run the main Dynamic Wallpaper Shortcut (or whatever name you have given it). A tutorial can be found [here](#Tutorial)
 #### If you ever want to change or configure your Dynamic Wallpaper setup, run the Setup Shortcut.

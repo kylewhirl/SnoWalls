@@ -1,8 +1,8 @@
 # SnoWalls ❄️
 ## Create custom dynamic wallpapers with weather effects and more!
-Solarized dark             |  Solarized Ocean
+Solarized dark             |  Example Wallpapers
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  | <img src="/main.GIF?raw=true"> | Testing this functionality
+![](https://...Dark.png)  | <img src="/main.GIF?raw=true"> |
 <img src="/main.GIF?raw=true">
 
 #### Quick Links

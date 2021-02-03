@@ -1,4 +1,5 @@
 # SnoWalls ❄️
+## Create custom dynamic wallpapers with weather effects and more!
 <img src="/main.GIF?raw=true">
 
 #### Quick Links
